@@ -1,0 +1,17 @@
+.pinkclock{
+
+    color:#FF4A60;
+    background-color: #FFE4E8;
+    padding:5px 8px;
+    border-radius:10px;
+}
+.fa-clock{
+    padding-right:5px;
+}
+.radius{
+    border-radius:15px;
+}
+.fa-heart-circle{
+    color:red;
+    font-size: large;
+}
